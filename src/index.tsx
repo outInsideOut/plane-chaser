@@ -9,6 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    {/* @ts-expect-error Server Component */}
     <App />
   </React.StrictMode>
 );
