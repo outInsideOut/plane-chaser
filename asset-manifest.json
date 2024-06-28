@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plane-chaser/static/css/main.93a8a0ce.css",
+    "main.js": "/plane-chaser/static/js/main.ebcfe155.js",
+    "static/js/453.a070280d.chunk.js": "/plane-chaser/static/js/453.a070280d.chunk.js",
+    "index.html": "/plane-chaser/index.html",
+    "main.93a8a0ce.css.map": "/plane-chaser/static/css/main.93a8a0ce.css.map",
+    "main.ebcfe155.js.map": "/plane-chaser/static/js/main.ebcfe155.js.map",
+    "453.a070280d.chunk.js.map": "/plane-chaser/static/js/453.a070280d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a8a0ce.css",
+    "static/js/main.ebcfe155.js"
+  ]
+}
