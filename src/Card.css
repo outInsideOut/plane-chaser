@@ -1,3 +1,9 @@
+.card_div {
+  transform: rotate(90deg) translate(-10%, 5%);
+
+}
+
 .card_div > img {
-  transform: rotate(90deg);
+  height: 90%;
+  width: 90%;
 }

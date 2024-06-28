@@ -39,12 +39,13 @@ function App() {
     <div className="App">
 
       <header className="App-header">
-        <Card img_uri={nextCard.image_uris.png} title={nextCard.name} />
 
         <button onClick={() => setNextCard(cards.pop())}>
           Next Card
         </button>
 
+
+        <Card img_uri={nextCard.image_uris.png} title={nextCard.name} />
       </header>
     </div>
   )
